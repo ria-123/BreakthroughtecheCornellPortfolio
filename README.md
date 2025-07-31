@@ -1,1 +1,4 @@
 # BreakthroughtecheCornellPortfolio
+#This project predicts the Life Ladder score, representing the happiness level of countries, using data from the World Happiness Report dataset. I used Python, pandas, scikit-learn, and visualization libraries to go through the full machine learning life cycle. The project loads and explores the dataset, handles missing values, scales features, and builds models like Linear Regression and Random Forest to make predictions.
+
+After evaluating the models with MSE and R² scores, I improved performance by selecting the most important features. The goal is to see which factors like GDP, social support, health, and governance influence happiness the most and create a model that can predict happiness scores accurately. This helps understand what really drives happiness across countries and shows how machine learning can help analyze real-world data.
